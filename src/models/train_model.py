@@ -75,9 +75,9 @@ def _train_model(model, x_train, y_train, x_val, y_val):
             print('Q', query[::-1] if REVERSE else query, end=' ')
             print('T', correct, end=' ')
             if correct == guess:
-                print(Colors.ok + '☑' + Colors.close, end=' ')
+                print(Colors.ok + 'correct' + Colors.close, end=' ')
             else:
-                print(Colors.fail + '☒' + Colors.close, end=' ')
+                print(Colors.fail + 'wrong' + Colors.close, end=' ')
             print(guess)
 
     return model
