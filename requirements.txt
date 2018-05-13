@@ -38,7 +38,7 @@ pytz==2018.4
 PyYAML==3.12
 requests==2.18.4
 rsa==3.4.2
-sagify==0.4
+sagify>=0.5
 s3transfer==0.1.13
 scipy==1.0.1
 six==1.11.0
