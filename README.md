@@ -1,5 +1,7 @@
 # deep-learning-addition
-A LSTM model that learns to perform arithmetic addition for integers. It's a simple Deep Learning calculator.
+A LSTM model that learns to perform arithmetic addition on integers. It's a simple Deep Learning calculator.
+
+Example: 12 + 134 = 146
 
 ## Development
 
