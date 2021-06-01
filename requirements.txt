@@ -61,7 +61,7 @@ sphinxcontrib-websupport==1.0.1
 tensorboard==1.7.0
 tensorflow==1.7.0
 termcolor==1.1.0
-urllib3==1.22
+urllib3==1.26.5
 websocket-client==0.48.0
 Werkzeug==0.15.3
 whichcraft==0.4.1
